@@ -19,8 +19,7 @@ A Deep Learning application that generates descriptive captions for images using
 1.  Clone the repository.
 2.  Install dependencies: `pip install -r requirements.txt`
 3.  **Note:** You must generate or download the `model.keras` file (it is too large for GitHub) and place it in the root folder.
-4.  Link - https://drive.google.com/file/d/1bqPfC7Qiy1nKnrSwvJyIs6ADHdtljytG/view?usp=drive_link
-5.  Run the app:
+4.  Run the app:
     ```bash
     streamlit run app.py
     ```

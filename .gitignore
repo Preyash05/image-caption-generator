@@ -1,0 +1,8 @@
+# Ignore large model files
+*.keras
+*.h5
+__pycache__/
+
+# Ignore virtual environments (if any)
+venv/
+.env
