@@ -1,4 +1,4 @@
-# 🖼️ AI Image Caption Generator
+# 🖼️ AI Image Caption Generator - https://preyash05-image-caption-generator-app-pqxrjc.streamlit.app/
 
 A Deep Learning application that generates descriptive captions for images using **DenseNet201** (for feature extraction) and **LSTM** (for text generation).
 
@@ -22,4 +22,5 @@ A Deep Learning application that generates descriptive captions for images using
 4.  Run the app:
     ```bash
     streamlit run app.py
+
     ```
